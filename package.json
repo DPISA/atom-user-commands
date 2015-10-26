@@ -1,0 +1,32 @@
+{
+  "name": "atom-user-commands",
+  "version": "0.0.1",
+  "description": "User defined shell commands for atom",
+  "repository": "https://github.com/dpisa/atom-user-commands",
+  "license": "MIT",
+  "main": "./lib/atom-user-commands",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "keywords": [
+    "macro",
+    "build",
+    "command",
+    "parameters",
+    "run",
+    "shell"
+  ],
+  "author": {
+    "name": "Francisco Salvador",
+    "email": "f.salvador@dpisa.es"
+  },
+  "bugs": {
+    "url": "https://github.com/dpisa/atom-user-commands/issues"
+  },
+  "homepage": "https://github.com/dpisa/atom-user-commands",
+  "dependencies": {
+    "win-spawn": "^2.0.0"
+  },
+  "readme": "#",
+  "readmeFilename": "README.md"
+}
