@@ -18,8 +18,16 @@
   ],
   "author": {
     "name": "Francisco Salvador",
-    "email": "f.salvador@dpisa.es"
+    "email": "f.salvador@dpisa.es",
+    "url": "https://github.com/pakopa"
   },
+  "contributors": [
+    {
+      "name": "Linwei",
+      "email": "skywind3000@163.com",
+      "url": "https://github.com/skywind3000"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/dpisa/atom-user-commands/issues"
   },
