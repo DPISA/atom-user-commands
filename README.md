@@ -6,7 +6,7 @@ Command configuration is pretty similar and it should take no more than 5 minute
 
 But ff you insist on using this package, here is how:
 
-Configure commands on your config file like this
+Configure commands in your config file like this
 ```cson
 "atom-user-commands":
   commands: [
