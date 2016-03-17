@@ -4,7 +4,7 @@
 **We recomend using/migrating to [atom-shell-commands](https://atom.io/packages/atom-shell-commands) which is a fork with several improvements.
 Command configuration is pretty similar and it should take no more than 5 minutes changing the configuration.**
 
-But ff you insist on using this package, here is how:
+But if you insist on using this package, here is how:
 
 Configure commands in your config file like this
 ```cson
