@@ -1,6 +1,6 @@
 {
   "name": "atom-user-commands",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "description": "User defined shell commands for atom",
   "repository": "https://github.com/dpisa/atom-user-commands",
   "license": "MIT",
